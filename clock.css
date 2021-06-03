@@ -1,0 +1,19 @@
+#clock {
+    margin-top: 30%;
+    font-size: 90px;
+    width: auto;
+    text-align: center;
+    color: blue;
+}
+
+#day {
+    text-align: center;
+    font-size: 15px;
+   }
+
+@media (min-width: 760px) {
+    #clock {
+        margin-top: 15%;
+        font-size: 150px;
+    }
+}
